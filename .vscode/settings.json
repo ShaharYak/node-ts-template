@@ -1,0 +1,9 @@
+{
+  "mochaExplorer.require": [
+    "source-map-support/register",
+    "tsconfig-paths/register",
+    "ts-node/register",
+    "dotenv/config"
+  ],
+  "mochaExplorer.files": "{functions,src}/**/*.spec.ts"
+}
