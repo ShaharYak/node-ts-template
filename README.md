@@ -1,1 +1,1 @@
-## A Node.js template project using Type-Script
+## A Node.js template project using TypeScript
